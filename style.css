@@ -1,0 +1,36 @@
+body{
+    background-size:cover;
+}
+
+#heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0px;
+}
+
+#start{
+    font-size: 15px;
+    border-radius: 25px;
+}
+
+#status, #number_of_objects{
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border-radius: 15px;
+    border: 2px solid white ;
+    margin-top: 130px;
+    
+}
+
+.footer{
+    bottom: 0px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    background-color: dimgray;
+    text-align: center;
+    line-height: 3;
+}
